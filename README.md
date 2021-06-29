@@ -12,6 +12,15 @@ Home Credit strives to enable lending to unbanked customers by using a variety o
 In this project, we will apply statistical and machine learning methods to unlock the full potential of alternative data. Therefore, we will be able to evaluate borrower’s creditworthiness to minimize credit risk and to maximize the profitability.
 
 
+## Create Workspace
+
+Open a terminal and type the following commands (after the $ prompts):
+
+```bash
+$ export ML_PATH="$HOME/ml"
+$ mkdir -p $ML_PATH
+```
+# You can change the path if you prefer
 ## Installation
 
 Ensure you have Python 3 and the package manager `pip` installed.
